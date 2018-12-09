@@ -1,5 +1,6 @@
 program a2018;
-/* This program computes and prints the value of an expression */
+/* This program computes and prints the value
+   of an expression */
 var
 	//declare variables
 	ab1,	cd,	e33a, d18	: integer;
@@ -9,7 +10,8 @@ begin
 	e33a		= 5	;
 show (ab1	); //display ab1
 
-	/* compute the value of the expression */
+	/* compute the value of
+       the expression */
 
 	d18=	ab1 *	( cd+2 *	e33a)	;
 	show (		d18	) ;		// display the value of d18
