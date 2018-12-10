@@ -1,2 +1,4 @@
 ﻿  Complier Final Project.cpp
-  Complier Final Project.vcxproj -> G:\compilerfinalproject\Complier Final Project\x64\Debug\Complier Final Project.exe
+c:\users\david\documents\github\compilerfinalproject\complier final project\complier final project\complier final project.cpp(504): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\david\documents\github\compilerfinalproject\complier final project\complier final project\complier final project.cpp(516): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Complier Final Project.vcxproj -> C:\Users\david\Documents\GitHub\compilerfinalproject\Complier Final Project\x64\Debug\Complier Final Project.exe
