@@ -37,5 +37,8 @@
     <Text Include="finalp2.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="finalp3.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
