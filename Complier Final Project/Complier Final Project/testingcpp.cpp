@@ -103,7 +103,6 @@ int main()
 	}
 	currentopenfile.close();
 	writefilehere.close();
-	system("gcc -o finalp3.cpp");
 	cout << "done" << endl;
 	system("pause");
 	return 0;

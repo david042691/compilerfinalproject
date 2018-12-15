@@ -1,4 +1,5 @@
 ﻿  Complier Final Project.cpp
-c:\users\david\documents\github\compilerfinalproject\complier final project\complier final project\complier final project.cpp(504): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-c:\users\david\documents\github\compilerfinalproject\complier final project\complier final project\complier final project.cpp(516): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\david\documents\github\compilerfinalproject\complier final project\complier final project\complier final project.cpp(541): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\david\documents\github\compilerfinalproject\complier final project\complier final project\complier final project.cpp(560): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\david\documents\github\compilerfinalproject\complier final project\complier final project\complier final project.cpp(883): warning C4715: 'CheckAccepted': not all control paths return a value
   Complier Final Project.vcxproj -> C:\Users\david\Documents\GitHub\compilerfinalproject\Complier Final Project\x64\Debug\Complier Final Project.exe
